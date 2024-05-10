@@ -1,4 +1,4 @@
-const texts = ['Holis Suegrita', 'Espero que le guste este detallito ', 'Feliz Dia De Las Madres', 'Hola con h'];
+const texts = ['Holis Suegrita', 'Espero que le guste este detallito ', 'Feliz Dia De Las Madres', 'Tenga Un Bonito Dia', 'Y LLeno De Bendiciones'];
 let count = 0; 
 let index = 0;
 
